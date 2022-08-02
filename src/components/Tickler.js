@@ -9,3 +9,4 @@ function Tickler() {
     <button onClick={tickle}>Tickle me!</button>
   );
 }
+export default Tickler;
